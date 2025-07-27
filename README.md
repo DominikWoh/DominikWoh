@@ -8,6 +8,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 - 🌐 Fascinated by self-hosted AI stacks, semantic search, and multi-modal interfaces for internal tools and workflows.
 - 🚀 Deepening my skills in orchestration, lightweight deployments, and hardware-efficient inference (edge AI, Raspberry Pi, etc.).
 - 🔐 Passionate about building secure, privacy-aware AI applications using tools like Presidio, Qdrant, and custom anonymization logic.
+- 🧠 I approach nearly all projects through Vibe Coding and Context Engineering—shaping systems that feel natural, intuitive, and human-aware.
 - ⚡ Always experimenting: automating infrastructure, combining DevOps with AI, and finding ways to make tech more autonomous.
 
 
