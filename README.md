@@ -5,16 +5,36 @@
 I’m **Dominik Woh**, a passionate software engineer and context engineer with a focus on building scalable AI-driven solutions and self-hosted systems. With expertise in LLM fine-tuning, semantic search, and automation, I bridge the gap between advanced machine learning models and real-world applications. I thrive on optimizing workflows, deploying robust infrastructure, and collaborating in open-source communities to drive innovation.
 
 - 🔭 Currently enhancing **Zammad** with AI-powered semantic search and automated ticket resolution through my [zammad-rag-assistant](https://github.com/DominikWoh/zammad-rag-assistant).
-- 🌱 Continuously expanding my knowledge in large-scale model deployment, MLOps, and context engineering.
+- 🌱 Continuously expanding my knowledge in LLM orchestration, semantic RAG systems, and hardware-integrated AI applications.
 - 👯 Always eager to partner on projects in AI/ML tooling, DevOps integrations, and self-hosted architectures.
-- 🤔 Open to mentorship and insights on enterprise-grade model optimization and distributed systems.
-- ⚡ Outside of code, I enjoy automating mundane tasks, experimenting with home lab setups, and exploring emerging AI frameworks.
+- 🤖 Building privacy-preserving pipelines using tools like Presidio and context-aware anonymization.
+- ⚡ Outside of code, I enjoy automating everything, building IoT setups, and exploring emerging AI frameworks.
 
 ## 🛠️ Tech Stack
 
-| Frontend                        | Backend               | DevOps         | Databases                   | Data & AI                          | Scripting             |
-| ------------------------------- | --------------------- | -------------- | --------------------------- | ---------------------------------- | --------------------- |
-| HTML, JavaScript   | Python, Go, PHP       | Docker, Qdrant | MS SQL, PostgreSQL, SQLite  | Jupyter Notebooks, LLMs, Context Engineering, Vibe Coding | PowerShell, Bash     |
+| Area              | Technologies                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| **Frontend**      | HTML, JavaScript, CSS                                                                                  |
+| **Backend**       | Python, PHP                                                                                   |
+| **DevOps**        | Docker, Docker Compose, Proxmox, LXC, systemd, Bash                                               |
+| **Databases**     | PostgreSQL + PostGIS, MS SQL, SQLite                                                              |
+| **LLM & AI**      | Ollama (Gemma, Granite, Qwen), SentenceTransformers, Qdrant, LoRA, Unsloth, Jupyter Notebooks     |
+| **Automation**    | PowerShell, Bash, Python                                                                          |
+| **Security**      | Nmap, OpenVAS, Sn1per, Kali Linux, Wireshark, pfSense, IDS/IPS, Firewall-Management               |
+| **Self-Hosting**  | Zammad, OpenWebUI, Nextcloud, Immich, Paperless-ngx, NGINX Proxy Manager                          |
+| **IoT & Embedded**| Raspberry Pi (Zero 2W / 4), GPS, LTE (A7608E-H), RTC, TPMS, OBD2                                  |
+
+## 💼 Featured Projects
+
+| Project                      | Description                                                                                   | Language        | Link                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------- |
+| **zammad-rag-assistant**     | Enhance Zammad with AI-powered semantic search and LLM-based ticket answering via Qdrant & Ollama. | Python          | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
+| **AnnoLLM_DE**               | Stark feingetuntes LLM zur Erkennung sensibler Entities in deutschen Texten für DSGVO-konforme Vorverarbeitung. | Python          | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
+| **TrainLLM**                 | One-Shot Script zur Einrichtung von CUDA, Unsloth, Jupyter und LLM-Finetuning auf Ubuntu-Servern. | Bash / Notebook | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
+| **ollama-AI**                | Eigener Ollama-Fork zum Ausführen mehrerer 8B-Modelle (Llama3.3, Phi-4, Mistral, DeepSeek-R1). | Go              | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
+| **MotoNav Pi** *(in progress)* | Raspberry Pi-basiertes Motorrad-Navi mit OSM-Karten, GPX-Routing, GPS-Logging & WebUI.         | Python / JS     | [GitHub](https://github.com/DominikWoh/motonav-pi) *(coming soon)*   |
+| **WP-AI-Amazon-Cards**       | WordPress-Plugin, das Produktdaten über die Amazon API abruft, automatisch KI-generierte Texte erstellt und Angebotskarten generiert. | PHP / JS / LLM  | *(privat / geplant für GitHub)*                                     |
+
 
 ## 📊 GitHub Stats
 
@@ -26,24 +46,24 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 | ---------------------------- | --------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------- |
 | zammad-rag-assistant         | Enhance Zammad with AI-powered semantic search and LLM-based ticket answering via Qdrant & Ollama. | Python          | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
 | AnnoLLM_DE                   | Stark feingetuntes LLM zur Erkennung sensibler Entities in deutschen Texten für DSGVO-konforme Vorverarbeitung. | Python          | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
-| TrainLLM                     | One-Shot Script für LLM FineTuning.                                                            | Jupyter Notebook | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
-| ollama-AI                    | Fork of Ollama to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral.                         | Go              | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
+| TrainLLM                     | One-Shot Script für LLM FineTuning inkl. Setup von CUDA, Unsloth und Jupyter auf Ubuntu.     | Bash + Jupyter  | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
+| ollama-AI                    | Fork of Ollama to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral.                        | Go              | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
 
-## 🖥️ Self-Hosting Projects (OpenSource)
+## 🖥️ Self-Hosting Projects (Open Source)
 
-- **Immich**: Self-hosted photo and video backup solution built on Docker & PostgreSQL. [GitHub](https://github.com/ImmichApp/immich)
-- **OpenWebUI**: Host your own AI image generation UI locally. [GitHub](https://github.com/USER/openwebui)
+- **Immich**: Self-hosted photo and video backup solution. [GitHub](https://github.com/ImmichApp/immich)
+- **OpenWebUI**: Self-hosted AI assistant UI, connected to Ollama. [GitHub](https://github.com/open-webui/open-webui)
 - **Nextcloud**: Private cloud storage and collaboration platform. [Website](https://nextcloud.com)
-- **Paperless-ngx**: Document management system with OCR for paperless workflows. [GitHub](https://github.com/paperless-ngx/paperless-ngx)
-- **NGINX Proxy Manager**: Easy-to-use proxy manager with a simple UI. [GitHub](https://github.com/jc21/nginx-proxy-manager)
-- **Proxmox VE**: Virtualization environment for managing VMs and containers. [Website](https://www.proxmox.com/en/proxmox-ve)
+- **Paperless-ngx**: OCR-based document management system. [GitHub](https://github.com/paperless-ngx/paperless-ngx)
+- **NGINX Proxy Manager**: Reverse proxy and SSL manager. [GitHub](https://github.com/jc21/nginx-proxy-manager)
+- **Proxmox VE**: Virtualization environment for VMs, containers, and GPU passthrough. [Website](https://www.proxmox.com/en/proxmox-ve)
 
 ## 🔒 Security & Pentesting
 
-I integrate robust security practices and conduct regular penetration tests to ensure system integrity:
+Security is a core pillar of all my projects. I combine offensive and defensive techniques to harden infrastructure:
 
-- 🛡️ **Pentesting with Kali Linux**: Vulnerability assessments, exploit development, and reporting.
-- 🌐 **Network Firewall & IDS/IPS**: Configuration and management of firewalls (pfSense, NGINX, Sophos, Fortinet), intrusion detection with Snort and Suricata.
-- 🕵️ **Network Scanning & Analysis**: Nmap, Wireshark and OpenVAS to detect and analyze network vulnerabilities.
-- 🔐 **Hardening & Compliance**: System hardening, patch management and ensuring compliance with industry standards.
+- 🛡️ **Pentesting with Kali Linux**: Vulnerability scanning, reconnaissance, and exploitation.
+- 🌐 **Firewall & IDS/IPS Setup**: pfSense, NGINX, Sophos, Fortinet; Intrusion detection with Suricata and Snort.
+- 🔍 **Active Reconnaissance**: Nmap, Sn1per, OpenVAS, Wireshark for deep network analysis.
+- 🧱 **System Hardening**: Patch management, least-privilege principles, compliance with CIS benchmarks.
 
