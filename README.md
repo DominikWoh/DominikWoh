@@ -32,7 +32,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 | **AnnoLLM_DE**               | Stark feingetuntes LLM zur Erkennung sensibler Entities in deutschen Texten für DSGVO-konforme Vorverarbeitung. | Python          | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
 | **TrainLLM**                 | One-Shot Script zur Einrichtung von CUDA, Unsloth, Jupyter und LLM-Finetuning auf Ubuntu-Servern. | Bash / Notebook | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
 | **ollama-AI**                | Eigener Ollama-Fork zum Ausführen mehrerer 8B-Modelle (Llama3.3, Phi-4, Mistral, DeepSeek-R1). | Go              | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
-| **MotoNav Pi** *(in progress)* | Raspberry Pi-basiertes Motorrad-Navi mit OSM-Karten, GPX-Routing, GPS-Logging & WebUI.         | Python / JS     | *(privat)* (https://github.com/DominikWoh/motonav-pi) *(coming soon)*   |
+| **MotoNav Pi** *(in progress)* | Raspberry Pi-basiertes Motorrad-Navi mit OSM-Karten, GPX-Routing, GPS-Logging & WebUI.         | Python / JS     | *(privat)*   |
 | **WP-AI-Amazon-Cards**       | WordPress-Plugin, das Produktdaten über die Amazon API abruft, automatisch KI-generierte Texte erstellt und Angebotskarten generiert. | PHP / JS / LLM  | *(privat)*                                     |
 
 
