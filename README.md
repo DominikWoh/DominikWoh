@@ -18,7 +18,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 | **Backend**       | Python, PHP                                                                                   |
 | **DevOps**        | Docker, Docker Compose, Proxmox, LXC, systemd, Bash                                               |
 | **Databases**     | PostgreSQL + PostGIS, MS SQL, SQLite                                                              |
-| **LLM & AI**      | Ollama (Gemma, Granite, Qwen), SentenceTransformers, Qdrant, LoRA, Unsloth, Jupyter Notebooks     |
+| **LLM & AI**      | Ollama (Gemma, Granite, Qwen), OpenAI, Azure AI, SentenceTransformers, Qdrant, LoRA, Unsloth, Jupyter Notebooks     |
 | **Automation**    | PowerShell, Bash, Python                                                                          |
 | **Security**      | Nmap, OpenVAS, Sn1per, Kali Linux, Wireshark, pfSense, IDS/IPS, Firewall-Management               |
 | **Self-Hosting**  | Zammad, OpenWebUI, Nextcloud, Immich, Paperless-ngx, NGINX Proxy Manager                          |
