@@ -14,7 +14,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 
 | Frontend                        | Backend               | DevOps         | Databases                   | Data & AI                          | Scripting             |
 | ------------------------------- | --------------------- | -------------- | --------------------------- | ---------------------------------- | --------------------- |
-| HTML, JavaScript, Vibe Coding   | Python, Go, PHP       | Docker, Qdrant | MS SQL, PostgreSQL, SQLite  | Jupyter Notebooks, LLMs, Context Engineering | PowerShell, Bash     |
+| HTML, JavaScript   | Python, Go, PHP       | Docker, Qdrant | MS SQL, PostgreSQL, SQLite  | Jupyter Notebooks, LLMs, Context Engineering, Vibe Coding | PowerShell, Bash     |
 
 ## 📊 GitHub Stats
 
@@ -37,3 +37,13 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 - **Paperless-ngx**: Document management system with OCR for paperless workflows. [GitHub](https://github.com/paperless-ngx/paperless-ngx)
 - **NGINX Proxy Manager**: Easy-to-use proxy manager with a simple UI. [GitHub](https://github.com/jc21/nginx-proxy-manager)
 - **Proxmox VE**: Virtualization environment for managing VMs and containers. [Website](https://www.proxmox.com/en/proxmox-ve)
+
+## 🔒 Security & Pentesting
+
+I integrate robust security practices and conduct regular penetration tests to ensure system integrity:
+
+- 🛡️ **Pentesting with Kali Linux**: Vulnerability assessments, exploit development, and reporting.
+- 🌐 **Network Firewall & IDS/IPS**: Configuration and management of firewalls (pfSense, NGINX), intrusion detection with Snort and Suricata.
+- 🕵️ **Network Scanning & Analysis**: Nmap, Wireshark and OpenVAS to detect and analyze network vulnerabilities.
+- 🔐 **Hardening & Compliance**: System hardening, patch management and ensuring compliance with industry standards (ISO 27001, GDPR).
+
