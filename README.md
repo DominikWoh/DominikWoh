@@ -29,7 +29,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 | TrainLLM                     | One-Shot Script für LLM FineTuning.                                                            | Jupyter Notebook | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
 | ollama-AI                    | Fork of Ollama to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral.                         | Go              | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
 
-## 🖥️ Self-Hosting Projects
+## 🖥️ Self-Hosting Projects (OpenSource)
 
 - **Immich**: Self-hosted photo and video backup solution built on Docker & PostgreSQL. [GitHub](https://github.com/ImmichApp/immich)
 - **OpenWebUI**: Host your own AI image generation UI locally. [GitHub](https://github.com/USER/openwebui)
@@ -43,7 +43,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 I integrate robust security practices and conduct regular penetration tests to ensure system integrity:
 
 - 🛡️ **Pentesting with Kali Linux**: Vulnerability assessments, exploit development, and reporting.
-- 🌐 **Network Firewall & IDS/IPS**: Configuration and management of firewalls (pfSense, NGINX), intrusion detection with Snort and Suricata.
+- 🌐 **Network Firewall & IDS/IPS**: Configuration and management of firewalls (pfSense, NGINX, Sophos, Fortinet), intrusion detection with Snort and Suricata.
 - 🕵️ **Network Scanning & Analysis**: Nmap, Wireshark and OpenVAS to detect and analyze network vulnerabilities.
-- 🔐 **Hardening & Compliance**: System hardening, patch management and ensuring compliance with industry standards (ISO 27001, GDPR).
+- 🔐 **Hardening & Compliance**: System hardening, patch management and ensuring compliance with industry standards.
 
