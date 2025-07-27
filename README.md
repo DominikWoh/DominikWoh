@@ -38,16 +38,7 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 
 ## 📊 GitHub Stats
 
-![DominikWoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikWoh&show_icons=true&theme=radical)
-
-## 💼 Featured Projects
-
-| Project                      | Description                                                                                   | Language        | Link                                                                 |
-| ---------------------------- | --------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------- |
-| zammad-rag-assistant         | Enhance Zammad with AI-powered semantic search and LLM-based ticket answering via Qdrant & Ollama. | Python          | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
-| AnnoLLM_DE                   | Stark feingetuntes LLM zur Erkennung sensibler Entities in deutschen Texten für DSGVO-konforme Vorverarbeitung. | Python          | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
-| TrainLLM                     | One-Shot Script für LLM FineTuning inkl. Setup von CUDA, Unsloth und Jupyter auf Ubuntu.     | Bash + Jupyter  | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
-| ollama-AI                    | Fork of Ollama to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral.                        | Go              | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
+![DominikWoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikWoh&show_icons=true&theme=radical)                 |
 
 ## 🖥️ Self-Hosting Projects (Open Source)
 
