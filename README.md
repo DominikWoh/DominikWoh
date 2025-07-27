@@ -58,3 +58,14 @@ Security is a core pillar of all my projects. I combine offensive and defensive 
 - 🔍 **Active Reconnaissance**: Nmap, Sn1per, OpenVAS, Wireshark for deep network analysis.
 - 🧱 **System Hardening**: Patch management, least-privilege principles, compliance with CIS benchmarks.
 
+## 🧰 IT-Administration & Windows Infrastruktur
+
+Neben DevOps und KI bringe ich fundierte Kenntnisse in klassischer IT-Administration mit:
+
+- 🧑‍💼 **Microsoft Active Directory**: User- und Rechteverwaltung, OU-Strukturen, GPOs
+- 📧 **Microsoft Exchange / M365**: Postfächer, Transportregeln, Autodiscover, Kalenderfreigaben
+- 🖥️ **Windows Server**: Deployment, Update-Management, AD-DNS, Zertifikate
+- 🛠️ **PowerShell Automation**: Skripte für Software-Deployments, Benutzerverwaltung, Systemprüfungen
+- 🧩 **Netzwerk- und Clientverwaltung**: DHCP, DNS, GPO, RSAT, Intune-Basics, Firewall
+
+Diese Fähigkeiten kombiniere ich zunehmend mit selbst gehosteter KI und Automatisierung im Unternehmenskontext.
