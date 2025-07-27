@@ -36,10 +36,6 @@ I’m **Dominik Woh**, a passionate software engineer and context engineer with 
 | **WP-AI-Amazon-Cards**       | WordPress-Plugin, das Produktdaten über die Amazon API abruft, automatisch KI-generierte Texte erstellt und Angebotskarten generiert. | PHP / JS / LLM  | *(privat)*                                     |
 
 
-## 📊 GitHub Stats
-
-![DominikWoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikWoh&show_icons=true&theme=radical)                 |
-
 ## 🖥️ Self-Hosting Projects (Open Source)
 
 - **Immich**: Self-hosted photo and video backup solution. [GitHub](https://github.com/ImmichApp/immich)
