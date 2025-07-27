@@ -4,11 +4,12 @@
 
 I’m **Dominik Woh**, a passionate software engineer and context engineer with a focus on building scalable AI-driven solutions and self-hosted systems. With expertise in LLM fine-tuning, semantic search, and automation, I bridge the gap between advanced machine learning models and real-world applications. I thrive on optimizing workflows, deploying robust infrastructure, and collaborating in open-source communities to drive innovation.
 
-- 🔭 Currently enhancing **Zammad** with AI-powered semantic search and automated ticket resolution through my [zammad-rag-assistant](https://github.com/DominikWoh/zammad-rag-assistant).
-- 🌱 Continuously expanding my knowledge in LLM orchestration, semantic RAG systems, and hardware-integrated AI applications.
-- 👯 Always eager to partner on projects in AI/ML tooling, DevOps integrations, and self-hosted architectures.
-- 🤖 Building privacy-preserving pipelines using tools like Presidio and context-aware anonymization.
-- ⚡ Outside of code, I enjoy automating everything, building IoT setups, and exploring emerging AI frameworks.
+- 🔬 Currently exploring how LLMs can be integrated into real-world systems—from support automation to privacy-first data pipelines.
+- 🌐 Fascinated by self-hosted AI stacks, semantic search, and multi-modal interfaces for internal tools and workflows.
+- 🚀 Deepening my skills in orchestration, lightweight deployments, and hardware-efficient inference (edge AI, Raspberry Pi, etc.).
+- 🔐 Passionate about building secure, privacy-aware AI applications using tools like Presidio, Qdrant, and custom anonymization logic.
+- ⚡ Always experimenting: automating infrastructure, combining DevOps with AI, and finding ways to make tech more autonomous.
+
 
 ## 🛠️ Tech Stack
 
