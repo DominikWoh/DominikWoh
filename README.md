@@ -23,7 +23,7 @@ Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engine
 | **Automatisierung** | PowerShell, Bash, Python                                                                          |
 | **Sicherheit**      | Nmap, OpenVAS, Sn1per, Kali Linux, Wireshark, pfSense, IDS/IPS, Firewall-Management               |
 | **Self-Hosting**    | Zammad, OpenWebUI, Nextcloud, Immich, Paperless-ngx, NGINX Proxy Manager                          |
-| **IoT & Embedded**  | Raspberry Pi (Zero 2W / 4), GPS, LTE (A7608E-H), RTC, TPMS, OBD2                                  |
+| **IoT & Embedded**  | Raspberry Pi (Zero 2W / 4), GPS, LTE (A7608E-H), RTC, TPMS                                  |
 
 ## 💼 Ausgewählte Projekte
 
