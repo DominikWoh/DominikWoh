@@ -2,7 +2,7 @@
 
 ## 🚀 Über mich
 
-Ich bin **Dominik Woh**, ein leidenschaftlicher Software Engineer und Context Engineer mit Fokus auf skalierbare, KI-gestützte Lösungen und selbst gehostete Systeme. Mit Erfahrung in LLM-Finetuning, semantischer Suche und Automatisierung überbrücke ich die Lücke zwischen modernen Sprachmodellen und praxisnahen Anwendungen. Ich liebe es, Workflows zu optimieren, robuste Infrastruktur zu bauen und in Open-Source-Communities Innovation voranzutreiben.
+Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engineer mit Fokus auf skalierbare, KI-gestützte Lösungen und selbst gehostete Systeme. Mit Erfahrung in LLM-Finetuning, semantischer Suche und Automatisierung überbrücke ich die Lücke zwischen modernen Sprachmodellen und praxisnahen Anwendungen. Ich liebe es, Workflows zu optimieren, robuste Infrastruktur zu bauen und in Open-Source-Communities Innovation voranzutreiben.
 
 - 🔬 Ich erkunde aktuell, wie sich LLMs sinnvoll in reale Systeme integrieren lassen – von Support-Automatisierung bis zu datenschutzfreundlichen Datenpipelines.
 - 🌐 Besonders faszinieren mich selbst gehostete KI-Stacks, semantische Suche und multimodale Interfaces für interne Tools und Workflows.
