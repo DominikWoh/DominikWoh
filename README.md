@@ -44,6 +44,7 @@ Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engine
 - **Paperless-ngx**: Dokumentenmanagement mit OCR für papierlose Workflows. [GitHub](https://github.com/paperless-ngx/paperless-ngx)
 - **NGINX Proxy Manager**: Reverse Proxy mit Webinterface und SSL-Verwaltung. [GitHub](https://github.com/jc21/nginx-proxy-manager)
 - **Proxmox VE**: Virtualisierungslösung zur Verwaltung von VMs und Containern mit GPU-Passthrough. [Website](https://www.proxmox.com/en/proxmox-ve)
+- **and more..**
 
 ## 🔒 Sicherheit & Pentesting
 
