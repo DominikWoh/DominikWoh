@@ -29,7 +29,7 @@ Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engine
 
 | Projekt                    | Beschreibung                                                                                          | Sprache         | Link                                                                 |
 |---------------------------|------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------|
-| **zammad-rag-assistant**  | Erweiterung von Zammad um semantische Suche und LLM-gestützte Ticketbeantwortung über Qdrant & Ollama. | Python           | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
+| **zammad-rag-assistant**  | Erweiterung von Zammad um semantische Suche und LLM-gestützte Ticketbeantwortung über Qdrant & Ollama. | Python / AI        | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
 | **AnnoLLM_DE**            | Stark feingetuntes LLM zur DSGVO-konformen Erkennung sensibler Entitäten in deutschen Texten.        | Python           | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
 | **TrainLLM**              | One-Shot-Skript zur Einrichtung von CUDA, Unsloth, Jupyter und Finetuning auf Ubuntu-Servern.         | Bash / Notebook  | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
 | **ollama-AI**             | Eigener Fork von Ollama zur Ausführung mehrerer 8B-Modelle (Llama3.3, Phi-4, Mistral, DeepSeek-R1).   | Go               | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
