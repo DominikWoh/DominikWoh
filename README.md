@@ -19,7 +19,7 @@ Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engine
 | **Backend**         | Python, PHP                                                                                       |
 | **DevOps**          | Docker, Docker Compose, Proxmox, LXC, systemd, Bash                                               |
 | **Datenbanken**     | PostgreSQL + PostGIS, MS SQL, SQLite                                                              |
-| **LLM & KI**        | Ollama (Gemma, Granite, Qwen), OpenAI, Azure AI, SentenceTransformers, Qdrant, LoRA, Unsloth, Jupyter Notebooks |
+| **LLM & KI**        | Ollama (GLM, OpenAI ,Qwen), OpenAI, Azure AI, SentenceTransformers, Qdrant, LoRA, Unsloth, Jupyter Notebooks |
 | **Automatisierung** | PowerShell, Bash, Python                                                                          |
 | **Sicherheit**      | Nmap, OpenVAS, Sn1per, Kali Linux, Wireshark, pfSense, IDS/IPS, Firewall-Management               |
 | **Self-Hosting**    | Zammad, OpenWebUI, Nextcloud, Immich, Paperless-ngx, NGINX Proxy Manager                          |
