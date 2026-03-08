@@ -29,7 +29,7 @@ Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engine
 
 | Projekt                    | Beschreibung                                                                                          | Sprache         | Link                                                                 |
 |---------------------------|------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------|
-| **OpenRDSM**  | Monitoring von Windows Systemen, insbesondere von Remote-Desktop-Server | Python        | [[GitHub]([https://github.com/DominikWoh/zammad-rag-assistant](https://github.com/DominikWoh/OpenRDSM))](https://github.com/DominikWoh/OpenRDSM)         |
+| **OpenRDSM**  | Monitoring von Windows Systemen, insbesondere von Remote-Desktop-Server | Python        |  [GitHub](https://github.com/DominikWoh/OpenRDSM)         |
 | **zammad-rag-assistant**  | Erweiterung von Zammad um semantische Suche und LLM-gestützte Ticketbeantwortung über Qdrant & Ollama. | Python / AI        | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
 | **mssql_mcp_server**            | Microsoft SQL MCP Server, Optimiert für lokale LLM Ausführung.        | Python           | [GitHub](https://github.com/DominikWoh/mssql_mcp_server)                   |
 | **AnnoLLM_DE**            | Stark feingetuntes LLM zur DSGVO-konformen Erkennung sensibler Entitäten in deutschen Texten.        | Python           | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
