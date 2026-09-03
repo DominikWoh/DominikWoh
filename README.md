@@ -28,16 +28,17 @@ Ich bin **Dominik**, ein leidenschaftlicher Software Engineer und Context Engine
 ## 💼 Ausgewählte Projekte
 
 | Projekt                    | Beschreibung                                                                                          | Sprache         | Link                                                                 |
-|---------------------------|------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------|
-| **OpenRDSM**  | Monitoring von Windows Systemen, insbesondere von Remote-Desktop-Server | Python        |  [GitHub](https://github.com/DominikWoh/OpenRDSM)         |
-| **zammad-rag-assistant**  | Erweiterung von Zammad um semantische Suche und LLM-gestützte Ticketbeantwortung über Qdrant & Ollama. | Python / AI        | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
-| **mssql_mcp_server**            | Microsoft SQL MCP Server, Optimiert für lokale LLM Ausführung.        | Python           | [GitHub](https://github.com/DominikWoh/mssql_mcp_server)                   |
-| **AnnoLLM_DE**            | Stark feingetuntes LLM zur DSGVO-konformen Erkennung sensibler Entitäten in deutschen Texten.        | Python           | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
-| **TrainLLM**              | One-Shot-Skript zur Einrichtung von CUDA, Unsloth, Jupyter und Finetuning auf Ubuntu-Servern.         | Bash / Notebook  | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
-| **ollama-AI**             | Eigener Fork von Ollama zur Ausführung mehrerer 8B-Modelle (Llama3.3, Phi-4, Mistral, DeepSeek-R1).   | Go               | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
-| **LocalBench AI** | Lokale Benchmarks mit LMStudio und OpenRouter Modelle                  | HTML / TypeScript      | [GitHub](https://github.com/DominikWoh/LocalBench_AI)                                                           |
-| **MotoNav Pi** *(in Arbeit)* | Motorrad-Navi auf Raspberry Pi mit OSM-Karten, GPX-Routing, GPS-Logging & WebUI.                  | Python / JS      | *(privat)*                                                           |
-| **WP-AI-Amazon-Cards**    | WordPress-Plugin, das per Amazon API Produkte abruft, KI-generierte Texte erstellt & Offer-Cards anzeigt. | PHP / JS / LLM   | *(privat)*                                                           |
+|----------------------------|-------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------|
+| **Sikai**                  | Nepali-Lern-App als Web/PWA – audio-basiertes Lernen ganz ohne Tippen, mit 9 Kapiteln, 162 Vokabeln & Sätzen und 183 Audioaufnahmen. Komplett per Vibe Coding entwickelt. | HTML / JS / KI   | [Live](https://dominikwoh.github.io/Sikai/) · [GitHub](https://github.com/DominikWoh/Sikai) |
+| **OpenRDSM**               | Monitoring von Windows Systemen, insbesondere von Remote-Desktop-Server                                | Python           | [GitHub](https://github.com/DominikWoh/OpenRDSM)                     |
+| **zammad-rag-assistant**   | Erweiterung von Zammad um semantische Suche und LLM-gestützte Ticketbeantwortung über Qdrant & Ollama. | Python / AI      | [GitHub](https://github.com/DominikWoh/zammad-rag-assistant)         |
+| **mssql_mcp_server**       | Microsoft SQL MCP Server, Optimiert für lokale LLM Ausführung.                                        | Python           | [GitHub](https://github.com/DominikWoh/mssql_mcp_server)             |
+| **AnnoLLM_DE**             | Stark feingetuntes LLM zur DSGVO-konformen Erkennung sensibler Entitäten in deutschen Texten.         | Python           | [GitHub](https://github.com/DominikWoh/AnnoLLM_DE)                   |
+| **TrainLLM**               | One-Shot-Skript zur Einrichtung von CUDA, Unsloth, Jupyter und Finetuning auf Ubuntu-Servern.         | Bash / Notebook  | [GitHub](https://github.com/DominikWoh/TrainLLM)                     |
+| **ollama-AI**              | Eigener Fork von Ollama zur Ausführung mehrerer 8B-Modelle (Llama3.3, Phi-4, Mistral, DeepSeek-R1).   | Go               | [GitHub](https://github.com/DominikWoh/ollama-AI)                    |
+| **LocalBench AI**          | Lokale Benchmarks mit LMStudio und OpenRouter Modelle                                                 | HTML / TypeScript| [GitHub](https://github.com/DominikWoh/LocalBench_AI)                |
+| **MotoNav Pi** *(in Arbeit)* | Motorrad-Navi auf Raspberry Pi mit OSM-Karten, GPX-Routing, GPS-Logging & WebUI.                    | Python / JS      | *(privat)*                                                           |
+| **WP-AI-Amazon-Cards**     | WordPress-Plugin, das per Amazon API Produkte abruft, KI-generierte Texte erstellt & Offer-Cards anzeigt. | PHP / JS / LLM | *(privat)*                                                           |
 
 ## 🖥️ Self-Hosting Projekte (Open Source)
 
